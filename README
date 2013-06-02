@@ -7,11 +7,16 @@ Licened under GPLv3 (see LICENSE file)
 
 INTRODUCTION
 ------------
-PostfixLog is a Collectd Plugin, which analyses
+PostfixLog is a Collectd Plugin, which analyses the
+Postfix logfiles for incoming and outgoing emails.
+
+For detailed information about installation and
+configuration see the Wiki on GitHub:
+https://github.com/geuma/PostfixLog/wiki
 
 See http://www.perl.org for more details on Perl
 and http://www.collectd.org for more details on Collectd
-and http://www.apache.org for more details on Apache.
+and http://www.postfix.org for more details on Postfix.
 
 BUGS & FEATURES
 ---------------
